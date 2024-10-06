@@ -32,7 +32,7 @@ Contact
 For any questions or issues, please contact the project author:
 
 Dimitra Kokkinou
-Email: dkokkinou@uth.gr
+Email: demiered@gmail.com
 
 Academic Reference
 If you use these flows in your research or project, please cite the following thesis:
